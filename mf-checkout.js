@@ -6,10 +6,10 @@
 
   /* ── 1. IMÁGENES DEL CARRUSEL — poné acá tus 4 URLs ───────────────── */
   var IMGS = [
-    { src: 'https://TU-DOMINIO/img/antes-21-dias.jpg',  alt: '21 días',          cap: 'Después de 21 días' },
-    { src: 'https://TU-DOMINIO/img/antes-1-mes.jpg',    alt: '1 mes',            cap: 'Después de 1 mes'   },
-    { src: 'https://TU-DOMINIO/img/frontal.jpg',        alt: 'Antes y después',  cap: 'Resultado frontal'  },
-    { src: 'https://TU-DOMINIO/img/lateral.jpg',        alt: 'Frontal',          cap: 'Vista lateral'      }
+    { src: 'https://nazadia18-max.github.io/florecer-cdn/antes-21-dias.jpg',  alt: '21 días',          cap: 'Después de 21 días' },
+    { src: 'https://nazadia18-max.github.io/florecer-cdn/antes-1-mes.jpg',    alt: '1 mes',            cap: 'Después de 1 mes'   },
+    { src: 'https://nazadia18-max.github.io/florecer-cdn/frontal.jpg',        alt: 'Antes y después',  cap: 'Resultado frontal'  },
+    { src: 'https://nazadia18-max.github.io/florecer-cdn/lateral.jpg',        alt: 'Frontal',          cap: 'Vista lateral'      }
   ];
 
   /* ── 2. LINKS DE CHECKOUT ─────────────────────────────────────────── */
